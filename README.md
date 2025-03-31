@@ -2,7 +2,7 @@
 
 #### Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=bash,git,linux,debian,nginx,sqlite,scala,py,vscode,js)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,nginx,typescript,go,scala,bash,py,js,workers,html,css,fastapi,sqlite,mysql&theme=dark&perline=9)
 
 #### Highlights
 
