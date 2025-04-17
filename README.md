@@ -1,15 +1,24 @@
 <div align="center">
 
-#### Languages & Frameworks I use
+# ReturnFI
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,nginx,typescript,go,scala,bash,py,js,workers,html,css,fastapi,sqlite,mysql&theme=dark&perline=9)
+[![Skills](https://skillicons.dev/icons?i=git,linux,docker,typescript,go,py,js,sqlite,mysql&theme=dark&perline=9)](https://github.com/ReturnFI)
 
-#### Highlights
 
-|Projects|Stars|Forks|
-|:---|:---|:---|
-|[Hysteria2](https://github.com/ReturnFI/Hysteria2): Management panel for Hysteria2 | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hysteria2?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hysteria2?style=flat-square&labelColor=343b41) | 
-|[Port-Shifter](https://github.com/ReturnFI/Port-Shifter): Multi-method Tunneling with Shell Scripts | ![Stars](https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=flat-square&labelColor=343b41) | 
-|[Warp](https://github.com/ReturnFI/Warp): Cloudflare WARP Installer | ![Stars](https://img.shields.io/github/stars/ReturnFI/Warp?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Warp?style=flat-square&labelColor=343b41) | 
+
+## Projects
+
+| Project | Description | Stars | Forks |
+|:-------|:------------|:------|:------|
+| [Hysteria2](https://github.com/ReturnFI/Hysteria2) | Management panel for Hysteria2 proxy with advanced features | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hysteria2?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hysteria2?style=flat&labelColor=151515) |
+| [Port-Shifter](https://github.com/ReturnFI/Port-Shifter) | Multi-method tunneling solutions via shell scripts | ![Stars](https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=flat&labelColor=151515) |
+| [Hysteria2-API](https://github.com/ReturnFI/Hysteria2-API) | Python package for Hysteria2 proxy server API | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hysteria2-API?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hysteria2-API?style=flat&labelColor=151515) |
+| [Hys2-docs](https://github.com/ReturnFI/Hys2-docs) | Comprehensive documentation for Hysteria2 Panel | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hys2-docs?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hys2-docs?style=flat&labelColor=151515) |
+| [Warp](https://github.com/ReturnFI/Warp) | Cloudflare WARP installer and configuration tool | ![Stars](https://img.shields.io/github/stars/ReturnFI/Warp?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Warp?style=flat&labelColor=151515) |
+</div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ReturnFI&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnFI&layout=compact&hide_border=true&theme=dark" alt="Languages" />
 
 </div>
