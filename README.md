@@ -1,11 +1,5 @@
 <div align="center">
 
-# ReturnFI
-
-[![Skills](https://skillicons.dev/icons?i=git,linux,docker,typescript,go,py,js,sqlite,mysql&theme=dark&perline=9)](https://github.com/ReturnFI)
-
-
-
 ## Projects
 
 | Project | Description | Stars | Forks |
