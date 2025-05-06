@@ -12,7 +12,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/ReturnFI/Blitz">
-          <img src="https://api.iconify.design/logos:python.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?id=5rjf4RBWzzU4&format=png" width="46" height="46"/>
           <br /><strong>Blitz</strong>
         </a>
         <br />
@@ -23,7 +23,8 @@
       </td>
       <td align="center">
         <a href="https://github.com/ReturnFI/Port-Shifter">
-          <img src="https://api.iconify.design/logos:bash-icon.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?id=XVpEAJGnE7YY&format=png" width="46" height="46"/>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M11 15l-4 6V9h6l-4 6zm-4-6h6V3l-4 6z"/></svg>
           <br /><strong>Port-Shifter</strong>
         </a>
         <br />
@@ -36,7 +37,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/ReturnFI/Hysteria2-API">
-          <img src="https://api.iconify.design/logos:python.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?id=Oz14KBnT7lnn&format=png" width="46" height="46"/>
           <br /><strong>Hysteria2-API</strong>
         </a>
         <br />
@@ -47,7 +48,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/ReturnFI/Warp">
-          <img src="https://api.iconify.design/logos:cloudflare-icon.svg" width="36" height="36"/>
+          <img src="https://img.icons8.com/?id=13682&format=png" width="46" height="46"/>
           <br /><strong>Warp</strong>
         </a>
         <br />
