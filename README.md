@@ -7,7 +7,7 @@
         <img src="https://img.icons8.com/?id=5rjf4RBWzzU4&format=png" width="60" height="60"/>
         <br/><h3>Blitz</h3>
       </a>
-      <p>Management panel for Hysteria2 with advanced features</p>
+      <p>Management panel for Hysteria2</p>
       <p>
         <img src="https://img.shields.io/github/stars/ReturnFI/Blitz?style=flat&labelColor=1f2937&color=3776AB" alt="Stars"/>
         <img src="https://img.shields.io/github/forks/ReturnFI/Blitz?style=flat&labelColor=1f2937&color=3776AB" alt="Forks"/>
