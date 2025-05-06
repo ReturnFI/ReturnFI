@@ -1,20 +1,53 @@
 <div align="center">
 
-## Projects
+  <h2>Projects</h2>
 
-| Project | Description | Stars | Forks |
-|:-------|:------------|:------|:------|
-| [Blitz](https://github.com/ReturnFI/Blitz) | Management panel for Hysteria2 proxy with advanced features | ![Stars](https://img.shields.io/github/stars/ReturnFI/Blitz?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Blitz?style=flat&labelColor=151515) |
-| [Port-Shifter](https://github.com/ReturnFI/Port-Shifter) | Multi-method tunneling solutions via shell scripts | ![Stars](https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=flat&labelColor=151515) |
-| [Hysteria2-API](https://github.com/ReturnFI/Hysteria2-API) | Python package for Hysteria2 proxy server API | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hysteria2-API?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hysteria2-API?style=flat&labelColor=151515) |
-| [Hys2-docs](https://github.com/ReturnFI/Hys2-docs) | Comprehensive documentation for Hysteria2 Panel | ![Stars](https://img.shields.io/github/stars/ReturnFI/Hys2-docs?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Hys2-docs?style=flat&labelColor=151515) |
-| [Warp](https://github.com/ReturnFI/Warp) | Cloudflare WARP installer and configuration tool | ![Stars](https://img.shields.io/github/stars/ReturnFI/Warp?style=flat&labelColor=151515) | ![Forks](https://img.shields.io/github/forks/ReturnFI/Warp?style=flat&labelColor=151515) |
+  <table align="center" border="1" cellpadding="6" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Stars</th>
+        <th>Forks</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/ReturnFI/Blitz">Blitz</a></td>
+        <td>Management panel for Hysteria2 proxy with advanced features</td>
+        <td><img src="https://img.shields.io/github/stars/ReturnFI/Blitz?style=flat&labelColor=151515" alt="Blitz Stars"></td>
+        <td><img src="https://img.shields.io/github/forks/ReturnFI/Blitz?style=flat&labelColor=151515" alt="Blitz Forks"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ReturnFI/Port-Shifter">Port-Shifter</a></td>
+        <td>Multi-method tunneling solutions via shell scripts</td>
+        <td><img src="https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=flat&labelColor=151515" alt="Port-Shifter Stars"></td>
+        <td><img src="https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=flat&labelColor=151515" alt="Port-Shifter Forks"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ReturnFI/Hysteria2-API">Hysteria2-API</a></td>
+        <td>Python package for Hysteria2 proxy server API</td>
+        <td><img src="https://img.shields.io/github/stars/ReturnFI/Hysteria2-API?style=flat&labelColor=151515" alt="Hysteria2-API Stars"></td>
+        <td><img src="https://img.shields.io/github/forks/ReturnFI/Hysteria2-API?style=flat&labelColor=151515" alt="Hysteria2-API Forks"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ReturnFI/Hys2-docs">Hys2-docs</a></td>
+        <td>Comprehensive documentation for Hysteria2 Panel</td>
+        <td><img src="https://img.shields.io/github/stars/ReturnFI/Hys2-docs?style=flat&labelColor=151515" alt="Hys2-docs Stars"></td>
+        <td><img src="https://img.shields.io/github/forks/ReturnFI/Hys2-docs?style=flat&labelColor=151515" alt="Hys2-docs Forks"></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ReturnFI/Warp">Warp</a></td>
+        <td>Cloudflare WARP installer and configuration tool</td>
+        <td><img src="https://img.shields.io/github/stars/ReturnFI/Warp?style=flat&labelColor=151515" alt="Warp Stars"></td>
+        <td><img src="https://img.shields.io/github/forks/ReturnFI/Warp?style=flat&labelColor=151515" alt="Warp Forks"></td>
+      </tr>
+    </tbody>
+  </table>
 
+  <br/>
 
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReturnFI&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=prs,issues&theme=moltack" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnFI&layout=compact&hide_border=true&theme=moltack" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReturnFI&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=prs,issues&theme=moltack" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnFI&layout=compact&hide_border=true&theme=moltack" alt="Languages" />
 
 </div>
