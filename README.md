@@ -9,8 +9,8 @@
       </a>
       <p>Management panel for Hysteria2 proxy with advanced features</p>
       <p>
-        <img src="https://img.shields.io/github/stars/ReturnFI/Blitz?style=for-the-badge&labelColor=1f2937&color=3776AB" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/ReturnFI/Blitz?style=for-the-badge&labelColor=1f2937&color=3776AB" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/ReturnFI/Blitz?style=flat&labelColor=1f2937&color=3776AB" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/ReturnFI/Blitz?style=flat&labelColor=1f2937&color=3776AB" alt="Forks"/>
       </p>
     </td>
     <td width="50%" align="center">
@@ -20,8 +20,8 @@
       </a>
       <p>Multi-method tunneling solutions via shell scripts</p>
       <p>
-        <img src="https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=for-the-badge&labelColor=1f2937&color=4EAA25" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=for-the-badge&labelColor=1f2937&color=4EAA25" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/ReturnFI/Port-Shifter?style=flat&labelColor=1f2937&color=4EAA25" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/ReturnFI/Port-Shifter?style=flat&labelColor=1f2937&color=4EAA25" alt="Forks"/>
       </p>
     </td>
   </tr>
@@ -33,19 +33,19 @@
       </a>
       <p>Python package for Hysteria2 proxy server API</p>
       <p>
-        <img src="https://img.shields.io/github/stars/ReturnFI/Hysteria2-API?style=for-the-badge&labelColor=1f2937&color=3776AB" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/ReturnFI/Hysteria2-API?style=for-the-badge&labelColor=1f2937&color=3776AB" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/ReturnFI/Hysteria2-API?style=flat&labelColor=1f2937&color=3776AB" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/ReturnFI/Hysteria2-API?style=flat&labelColor=1f2937&color=3776AB" alt="Forks"/>
       </p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ReturnFI/Warp">
         <img src="https://img.icons8.com/?id=13682&format=png" width="60" height="60"/>
-        <br/><h3>Warp</h3>
+        <h3>Warp</h3>
       </a>
       <p>Cloudflare WARP installer and configuration tool</p>
       <p>
-        <img src="https://img.shields.io/github/stars/ReturnFI/Warp?style=for-the-badge&labelColor=1f2937&color=4EAA25" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/ReturnFI/Warp?style=for-the-badge&labelColor=1f2937&color=4EAA25" alt="Forks"/>
+        <img src="https://img.shields.io/github/stars/ReturnFI/Warp?style=flat&labelColor=1f2937&color=4EAA25" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/ReturnFI/Warp?style=flat&labelColor=1f2937&color=4EAA25" alt="Forks"/>
       </p>
     </td>
   </tr>
