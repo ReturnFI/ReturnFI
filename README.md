@@ -12,7 +12,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=ReturnFI&show_icons=true&hide_rank=true&hide_border=true&count_private=true&hide=prs&theme=radical&bg_color=1f2937&text_color=f3f4f6&icon_color=ff79c6&title_color=bd93f9" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnFI&layout=compact&hide_border=true&theme=radical&bg_color=1f2937&text_color=f3f4f6&icon_color=ff79c6&title_color=bd93f9" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnFI&layout=compact&hide_border=false&theme=radical&bg_color=1f2937&text_color=f3f4f6&icon_color=ff79c6&title_color=bd93f9" alt="Languages" />
   
 </div>
 
